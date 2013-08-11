@@ -7,4 +7,4 @@ It contains pulgins created for Phonegap mainly on Windows Phone 8 platform.
 
 I am speech application architect and love working with speech capabilties on the smart phone platforms.
 
-Contact me at speek@live.com or http://www.linkedin.com/in/harshalsk if you want to connect
+Contact me at wprocks@outlook.com or http://chksound.com/Speech if you want to connect
